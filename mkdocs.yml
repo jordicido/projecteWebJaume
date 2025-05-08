@@ -1,0 +1,20 @@
+site_name: Projecte Pàgina Web 4t d'ESO IES Jaume II El Just
+site_author: Jordi Cidoncha
+
+theme:
+  name: "material"
+  language: es
+  features:
+    - navigation.top # Botó de "Back to top"
+    - content.code.copy
+    - content.code.annotate
+  palette:
+    - scheme: default
+      primary: #253d46
+      accent: #072e3d
+    - scheme: slate
+      primary: "blue"
+      accent: "orange"
+  font:
+    text: Roboto
+    code: JetBrains Mono
