@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Projecte Digitalització 4t d'ESO: Creació de pàgines web
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introducció
 
-## Commands
+Benvingut al projecte de Digitalització de 4t d'ESO! En aquest projecte, aprendràs a crear pàgines web utilitzant HTML i CSS. A través de diverses sessions, anirem construint una pàgina web personalitzada on podràs mostrar informació sobre tu mateix i les teues aficions.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Contingut del projecte
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [**Sessió 1**: Introducció a HTML](sessio1.md)
+- [**Sessió 2**: Introducció a CSS](sessio2.md)

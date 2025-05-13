@@ -18,3 +18,21 @@ theme:
   font:
     text: Roboto
     code: JetBrains Mono
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mermaid2
